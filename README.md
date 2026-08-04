@@ -8,10 +8,12 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +26,8 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
