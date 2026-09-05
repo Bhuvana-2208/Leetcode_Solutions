@@ -11,6 +11,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
