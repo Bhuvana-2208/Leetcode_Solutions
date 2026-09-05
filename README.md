@@ -12,6 +12,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,5 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
