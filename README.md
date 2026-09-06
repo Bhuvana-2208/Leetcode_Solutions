@@ -8,6 +8,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
@@ -36,6 +37,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
