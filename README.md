@@ -12,6 +12,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
