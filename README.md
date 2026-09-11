@@ -9,6 +9,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0001-two-sum](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
