@@ -57,10 +57,12 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1768-merge-strings-alternately](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1768-merge-strings-alternately](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
