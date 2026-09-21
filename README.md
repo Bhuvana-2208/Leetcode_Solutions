@@ -27,6 +27,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [3870-count-commas-in-range](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
 ## Sorting
 |  |
@@ -68,4 +70,20 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
