@@ -14,6 +14,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0821-shortest-distance-to-a-character](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -31,6 +32,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0367-valid-perfect-square](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
