@@ -32,6 +32,7 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 | [0367-valid-perfect-square](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [1952-three-divisors](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -100,4 +101,20 @@ This repository contains my accepted solutions to LeetCode problems. I use it to
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Bhuvana-2208/Leetcode_Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
